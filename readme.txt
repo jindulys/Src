@@ -4,3 +4,9 @@ Please read the associated read-me files:
 
   https://github.com/PerfectlySoft/Perfect/tree/master/Examples/Tap%20Tracker
   https://github.com/PerfectlySoft/Perfect-Heroku-Buildpack
+  
+## work Flow
+
+git add .
+git commit -m "An awesome commit"
+git push heroku master 
